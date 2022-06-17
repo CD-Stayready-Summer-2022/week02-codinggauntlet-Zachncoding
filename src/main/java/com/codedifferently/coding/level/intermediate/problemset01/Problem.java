@@ -16,6 +16,9 @@ public class Problem {
      */
 
     public static String stringCopies(String word, int n) {
+        // count how many characters each string has
+        // multiply that by n of given string
+        // return the new string
 
         return null;
     }
@@ -32,6 +35,10 @@ public class Problem {
      */
 
     public static Boolean followedX(String str) {
+        // iterate through the string and find the first instance of x
+        // once found the code must then move onto the next char
+        // if the next char is x return true
+        // else return false
 
         return null;
     }
@@ -70,6 +77,10 @@ public class Problem {
      */
 
     public static Boolean basicNumbers123(int[] nums) {
+        // iterate through the array
+        // if 2 appears after 1 and before 3
+        // the array is true
+        // else the array is false
 
         return null;
     }
@@ -90,6 +101,10 @@ public class Problem {
      */
 
     public static String scrambleOfLetters(String scramble) {
+        // iterate through the string array
+        // remove all characters that are not at indexes
+        // 0, 1, 4, 5, 8, 9
+        // print the remainder of the string
 
         return null;
     }
@@ -108,6 +123,11 @@ public class Problem {
      */
 
     public static Boolean dontAcceptTriples(int[] score) {
+        // iterate through the array
+        // if there is three of the same n consecutive
+        // return false
+        // if there is not three of the same n
+        // return true
 
         return null;
     }
